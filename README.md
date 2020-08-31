@@ -36,7 +36,7 @@ The above graph indicate that if a movie is extremely long or very short the ave
 
 ![alt text](/Images/Number%20of%20Movies%20vs%20Runtime%20Minutes%20Ranges.png)
 
- However, the number of movies in each runtime range affects the average rating mean across each group of runtimes.
+ However, the number of movies in each runtime range affects the average rating mean.
 
 ## Budget vs. Profit
 
@@ -56,11 +56,11 @@ The Budget and the Profit distributions are positively skewed so the mean is aff
 
 ## Genres vs. Popularity 
 
-Genres vs Popularity 1
+
 ![alt text](Images/Genres%201%20-6.png)
-                    Genres vs. Popularity 2
+                    
 ![alt text](Images/Genres%207-12.png)
-                    Genres vs. Popularity 3
+                    
 ![alt text](Images/Genres%2013-19.png)
 
 The above boxplots show the distribution of popularity scores for each genre. Every movie has a popularity score and genre, or multiple genres, these boxplots show the popularity score correlated to the movie where that genre is present. We can see that Adventure and Action are the genres with the highest popularity.
